@@ -1,0 +1,40 @@
+.header{
+    background-color: rgb(101, 7, 9);
+}
+
+.Bd{
+    background-color: green;
+    color: red;
+    font-size: 50px;
+}
+
+#main-heading{
+    color: green;
+    font-size: 40px;
+}
+#main{
+    background-color: black;
+    color: green;
+    font-style: italic;
+    font-size: 25px;
+}
+
+.bdd{
+    background-color: red;
+    color: whitesmoke;
+    font-size: 20px;
+    font-style: italic;
+
+}
+
+.footer1{
+    background-color: rgb(60, 57, 57);
+    color: white
+}
+
+.footer{
+    text-decoration: none;
+    color: green;
+    font-size: 25px;
+}
+
